@@ -1,2 +1,9 @@
 # DataMining
-Groupeffort for Data Mijning class
+Groupeffort for Data Mijning classssssssnek
+
+(.) (.)  
+
+
+
+
+8======> ~~~~ (°)
