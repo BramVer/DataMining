@@ -1,2 +1,2 @@
 # DataMining
-Groupeffort for Data Mining class
+Groupeffort for Data Mijning class
