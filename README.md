@@ -1,10 +1,4 @@
 # DataMining
-Werken Klootzakken
-Groupeffort for Data Mijning classssssssnek
+Assignment AP Hogeschool 2016
 
-(.) (.)  
-
-
-
-
-8======> ~~~~ (°)
+Contributors: Vone Cloots, Jonas Elst, Bram Vereertbrugghen, Laurent Wauters
